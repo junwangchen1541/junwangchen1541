@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**junwangchen1541/junwangchen1541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是君往臣，一名软件工程专业本科生，关注深度学习、遥感智能与算法竞赛。
+目前正在探索大模型、计算机视觉与时空预测方向，希望在科研与工程之间找到一条真正能走远的路。
 
-Here are some ideas to get you started:
+* 🎓 **本科**：[中国海洋大学](https://www.ouc.edu.cn/) 2024级计算机学院，软件工程专业
+* 🧠 **研究方向**：Deep Learning / Computer Vision / Remote Sensing / Sea Ice Forecasting
+* 🛰️ **当前工作**：遥感影像理解、高光谱影像分类与北极海冰预测，关注深度学习、计算机视觉与时空建模
+* 🏆 **竞赛经历**：数据算法竞赛 / 工程开发竞赛，获省级、国家级奖项若干
+* 🛠️ **技术栈**：Python / C++ / PyTorch
+* 📚 **近期关注**：多模态遥感、视觉基础模型、Mamba 架构与大模型应用
+* 💼 **实习意向**：深度学习算法实习 / 计算机视觉实习 / 大模型算法实习
+* 📨 **联系我**：[junwangchen1541@gmail.com](mailto:junwangchen1541@gmail.com)
+* 📝 **我的简历**：[个人简历]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
