@@ -4,8 +4,8 @@
 目前正在探索深度学习与神经网络方向，希望在科研与工程之间找到一组可行解。
 
 * 🎓 **本科**：[中国海洋大学](https://www.ouc.edu.cn/) 2024级计算机学院，软件工程专业
-* 🧠 **研究方向**：Deep Learning / Computer Vision / Remote Sensing / Sea Ice Forecasting
-* 🛰️ **当前工作**：遥感影像理解、高光谱影像分类与北极海冰预测，关注深度学习、计算机视觉与时空建模
+* 🧠 **研究方向**：Deep Learning / Computer Vision / Remote Sensing
+* 🛰️ **当前工作**：人工智能海洋学，遥感图像处理与分析，关注深度学习、计算机视觉与时空建模
 * 🏆 **竞赛经历**：数据算法竞赛 / 工程开发竞赛，获省部级、国家级奖项若干
 * 🛠️ **技术栈**：Python / C++ / PyTorch，熟悉 NumPy、scikit-learn、Git 与 Linux 基础开发环境
 * 📚 **近期关注**：多模态遥感、视觉基础模型、Mamba 架构与大模型应用
