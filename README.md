@@ -20,6 +20,13 @@
 - 2026/01-2026/02，莲花中学教育集团信息学奥赛冬令营--教练助理
 - 2025/10-2026/01，五八云南绿春支教团计算机启蒙云支教--主要负责人
 
+## 🌐 开源项目贡献
+
+- **[华为昇腾 Ascend / op-plugin](https://gitcode.com/Ascend/op-plugin)** — 开源贡献者
+  - **Issue 负责人**：[Issue #622](https://gitcode.com/Ascend/op-plugin/issues/622)，负责问题跟进、分析与修复。
+  - **代码贡献**：[PR #6147](https://gitcode.com/Ascend/op-plugin/pulls/6147)，提交问题修复代码。
+  - 参与华为昇腾算子生态开源项目维护与缺陷修复。
+
 ### 🏆 竞赛奖项
 
 | Time | Competition | Award / Result |
